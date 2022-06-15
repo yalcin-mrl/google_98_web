@@ -1,0 +1,43 @@
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.search-area{
+    background-color: #EEEEEE;
+    position: absolute;
+    left: 10%;
+}
+p{
+
+    margin-block-start: 00.1em;
+    margin-block-end: 0.1em;
+}
+.foot{
+    width: 88%;
+    margin-top: 4.4%;
+    display: flex;
+    position: absolute;
+    left: 10%;
+}
+.foot1{
+    background-color: aqua;
+    width: 30.2%;
+    margin-right: 2px;
+}
+.foot2{
+    background-color: cadetblue;
+    width: 30.2%;
+    margin-right: 2px;
+}
+.foot3{
+    background-color: darkcyan;
+    width: 30.2%;
+    margin-right: 2px;
+}
+.f-end{
+    margin-top: 9%;
+    display: flex;
+    position: absolute;
+    left: 40%;
+}
